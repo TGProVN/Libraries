@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{B8E49328-F342-4396-BEAC-FBD55C7B4C55}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TGProVN.Extension.Serialization", "src\TGProVN.Extension.Serialization\TGProVN.Extension.Serialization.csproj", "{0FFE282E-77F0-4ECC-9D78-EBA2EC1EB334}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TGProVN.Extension.Browser", "src\TGProVN.Extension.Browser\TGProVN.Extension.Browser.csproj", "{97496D98-ABCA-4A6A-829B-655DD5909789}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{0FFE282E-77F0-4ECC-9D78-EBA2EC1EB334} = {B8E49328-F342-4396-BEAC-FBD55C7B4C55}
+		{97496D98-ABCA-4A6A-829B-655DD5909789} = {B8E49328-F342-4396-BEAC-FBD55C7B4C55}
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0FFE282E-77F0-4ECC-9D78-EBA2EC1EB334}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FFE282E-77F0-4ECC-9D78-EBA2EC1EB334}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FFE282E-77F0-4ECC-9D78-EBA2EC1EB334}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FFE282E-77F0-4ECC-9D78-EBA2EC1EB334}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97496D98-ABCA-4A6A-829B-655DD5909789}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97496D98-ABCA-4A6A-829B-655DD5909789}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97496D98-ABCA-4A6A-829B-655DD5909789}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97496D98-ABCA-4A6A-829B-655DD5909789}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
